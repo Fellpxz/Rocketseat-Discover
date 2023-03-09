@@ -1,0 +1,5 @@
+getElementById(element)
+getElementsByClassName(HTMLCollection)
+getElementsByTagName(HTMLCollection)
+querySelector(element, selector)
+querySelectorAll(nodelist)
