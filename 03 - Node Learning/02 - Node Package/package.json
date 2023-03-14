@@ -1,0 +1,20 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "learning"
+  ],
+  "author": "Felipe Proença",
+  "license": "MIT",
+  "dependencies": {
+    "cfonts": "^3.1.1",
+    "inquirer": "^9.1.4",
+    "opn": "^6.0.0"
+  }
+}

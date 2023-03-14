@@ -3,3 +3,5 @@ console.log(__dirname);
 
 // complete path + name of the file.
 console.log(__filename);
+
+//comand node global
